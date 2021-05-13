@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CowinNotifier</string>
+    <string name="interval_hint">Select Time Interval: (In minutes)</string>
+    <string name="_10">10</string>
+    <string name="_8">8</string>
+    <string name="_15">15</string>
+    <string name="add_to_list">Add to list</string>
+    <string name="entered_pincodes">Entered Pincodes</string>
+    <string name="_5_seconds">5 sec</string>
+    <string name="_30_seconds">30 sec</string>
+    <string name="_1_min">1 min</string>
+    <string name="_3_min">3 min</string>
+    <string name="_5_min">5 min</string>
+    <string name="_10_min">10 min</string>
+    <string name="select_age_group">Select Age group</string>
+    <string name="_18">18+</string>
+    <string name="_45">45+</string>
+    <string name="made_by_ashish">Made by Ashish</string>
+    <string name="banner_ap_unit_id">ca-app-pub-9755625155855929/6772675108</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91735719396",
+    "project_id": "cowinnotifier-3a84b",
+    "storage_bucket": "cowinnotifier-3a84b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91735719396:android:3810cd17866ffc7552dbf1",
+        "android_client_info": {
+          "package_name": "com.blackdev.cowinnotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91735719396-t53akk3lm4af0am904im3tbe8lln2gv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnzTfPaIGVihf968t_oYaMNe7EeEG9_dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91735719396-t53akk3lm4af0am904im3tbe8lln2gv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
